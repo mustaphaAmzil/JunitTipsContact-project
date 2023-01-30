@@ -14,7 +14,7 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <build>
-        <finalName>amzilservices-devops</finalName>
+        <finalName>JunitTipsContact project</finalName>
     </build>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
