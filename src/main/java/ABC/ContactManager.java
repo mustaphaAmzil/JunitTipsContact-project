@@ -35,4 +35,8 @@ public class ContactManager {
     private String generateKey(Contact contact) {
         return String.format("%s-%s", contact.getFirstName(), contact.getLastName());
     }
+
+    private void fun() {
+        System.out.println("Azul !");
+    }
 }
